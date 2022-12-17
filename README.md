@@ -54,8 +54,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://fb.com/NV80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="N.6" height="30" width="40" /></a>
-<a href=" target="blank"><img align="center" src="https://raw.githubusercontent.com/qurshi-king/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com//" height="30" width="40" /></a>
+<a href="https://raw.githubusercontent.com/qurshi-king/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com//" height="30" width="40" /></a>
 
 
 
