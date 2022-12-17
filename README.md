@@ -78,8 +78,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/Naim75o/BD-11-DIGIT"><img title="BD-11-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=BD-11-DIGIT&theme=highcontrast"></a>
 
-<p align="center">
-<a href="https://github.com/Naim75o/MULTI-PUBLIC"><img title="MULTI-PUBLIC" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=MULTI-PUBLIC&theme=midnight-purple"></a>
+
 
 <p align="center">
 <a href="https://github.com/Naim75o/decrypt"><img title="decrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=decrypt&theme=vision-friendly-dark"></a>
