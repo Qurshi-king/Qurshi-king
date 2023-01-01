@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Naim75o/encrypt_decrypt"><img title="encrypt_decrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=encrypt_decrypt&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/Naim75o/BD-11-DIGIT"><img title="BD-11-DIGIT" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=BD-11-DIGIT&theme=highcontrast"></a>
+
 
 
 
