@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/Naim75o/2008-CRACKER"><img title="2008-CRACKER" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=2008-CRACKER&theme=vision-friendly-dark"></a>
+
 
 <p align="center">
 <a href="https://github.com/Naim75o/encrypt_decrypt"><img title="encrypt_decrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=Naim75o&repo=encrypt_decrypt&theme=chartreuse-dark"></a>
